@@ -1,0 +1,8 @@
+{
+  "name": "FluxRoute - Dual-Route Dispatch & Fleet Payment Hub",
+  "description": "Intelligent multi-route logistics optimization dashboard with dual route visualization on Google Maps & Real India Maps, live telematics, customer billing, and one-click 'Pay All' settlement.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
